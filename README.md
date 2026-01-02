@@ -61,8 +61,8 @@ Pastikan Anda telah menginstal **Java Development Kit (JDK)** di komputer Anda.
 
 ## 🛠️ Tools yang Digunakan
 * **Bahasa:** Java
-* **IDE/Editor:** (Visual Studio Code / IntelliJ IDEA / NetBeans)
-* **Platform Soal:** (Kemungkinan HackerRank)
+* **IDE/Editor:** (NetBeans)
+* **Platform Soal:** (HackerRank)
 
 ---
 *Dibuat oleh Abdullah Azzam untuk keperluan tugas perkuliahan.*
